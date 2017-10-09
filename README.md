@@ -33,4 +33,4 @@
 
 #### Congratulations on finishing Homework #1!
 
-For more information about Lambda School's six month CS program visit: https://lambdaschool.com
+For more information about Lambda School's six month CS program visit: https://lambdaschool.com 
